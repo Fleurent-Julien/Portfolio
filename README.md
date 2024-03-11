@@ -1,5 +1,5 @@
-# Projet TaVue Julien Fleurent 
+# Projet portfolio Julien Fleurent
 
 URL du site :
 
-https://www.tavue.jfleurent.fr
+https://jfleurent.fr

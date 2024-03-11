@@ -26,7 +26,7 @@ import { RouterLink } from 'vue-router';</script>
 
         <!--Card Benevers -->
         <div class="bg-black w-80 rounded-b-xl mb-12">
-    <RouterLink to="/benevers">
+    <RouterLink to="/benevers" class="hover:text-white">
     <div class="group relative">
       <img class="w-80" src="../img/Benevers.webp" alt="Couverture du Crac 19"/>
 

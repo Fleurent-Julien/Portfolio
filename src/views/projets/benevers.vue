@@ -1,4 +1,5 @@
-<script setup></script>
+<script></script>
+
 
 <template>
     <div class="grid grid-cols-[40%_60%]">
@@ -62,4 +63,19 @@
         </div>
 
     </div>
+
+
+    <ul class="flex ">
+        <li>
+            <h3>Communication</h3>
+        </li>
+        <li>
+            <h3>Développement</h3>
+        </li>
+        <li>
+            <h3>Design</h3>
+        </li>
+    </ul>
+
+
 </template>

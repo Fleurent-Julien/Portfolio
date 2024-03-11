@@ -14,7 +14,7 @@ const router = createRouter({
     { path: '/contact',                       name: 'contact',                      component: Contact },
     { path: '/projets',                       name: 'projets',                      component: Projets },
     { path: '/crac-19',                       name: 'crac-19',                      component: Crac },
-    { path: '/benevers',                      name: 'benevers',                     component: Benevers },
+    { path: '/benevers',                      name: 'benevers',                     component: Benevers }
 
   ]
 })
