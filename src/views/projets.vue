@@ -2,24 +2,24 @@
 import { RouterLink } from 'vue-router';</script>
 
 <template>
-    <h1 class="text-5xl text-center my-4">Projets</h1>
+    <h1 class="text-8xl text-center my-4">Projets</h1>
     
   <div class="grid lg:grid-cols-3 md:grid-cols-2">
   <div class="card-container bg-gray-500">
-      <RouterLink to="/crac-19" class="hero-image-container before:none">
-        <img class="hero-image" src="../img/Cover_crac_19.webp" alt="Cover du 19, Crac"/>
+      <RouterLink to="/benevers" class="hero-image-container before:none">
+        <img class="hero-image" src="../img/Benevers.webp" alt="Illustration du projet benevers"/>
       </RouterLink>
       <main class="main-content">
-        <h2 class="text-center text-4xl"><RouterLink to="/crac-19">Le 19, Crac</RouterLink></h2>
+        <h2 class="text-center text-4xl"><RouterLink to="/benevers">Benevers</RouterLink></h2>
       </main>
     </div>
     
     <div class="card-container bg-gray-500">
-      <a href="/" class="hero-image-container">
-        <img class="hero-image" src="../img/Cover_crac_19.webp" alt="Cover du 19, Crac"/>
-      </a>
+      <RouterLink to="/crac-19" class="hero-image-container before:none">
+        <img class="hero-image" src="../img/Cover_crac_19.webp" alt="Illustration du projet benevers"/>
+      </RouterLink>
       <main class="main-content">
-        <h2><a href="#">Test</a></h2>
+        <h2 class="text-center text-4xl"><RouterLink to="/crac-19">Le 19, Crac</RouterLink></h2>
       </main>
     </div>
 
