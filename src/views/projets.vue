@@ -25,7 +25,7 @@ import { RouterLink } from 'vue-router';</script>
 
     <div class="card-container bg-gray-500">
       <a href="/hurry-up" class="hero-image-container">
-        <img class="hero-image" src="../img/Cover_crac_19.webp" alt="Cover du 19, Crac"/>
+        <img class="hero-image" src="../img/hurry_up/cover_hurry-up.webp" alt="Cover de Hurry Up"/>
       </a>
       <main class="main-content">
         <h2 class="text-center text-4xl"><RouterLink to="/hurry-up">Hurry Up !</RouterLink></h2>

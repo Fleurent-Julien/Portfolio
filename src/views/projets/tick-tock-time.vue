@@ -32,7 +32,7 @@
     </div>
 
     <div class="img flex mb-20">
-      <img src="/src/img/tick-tock-time/Tick-tock-time-cover.webp" alt="Image Ordinateur de Benevers">
+      <img src="/src/img/tick-tock-time/Tick-tock-time-cover.webp" alt="Couverture de Tick Tock Time">
     </div>
   </section>
 
@@ -40,7 +40,7 @@
     <p class="mt-20 mb-5 text-xl">Tout premier projet lors de mes études en MMI (Métiers du Multimédia et de l'Internet) qui avait pour sujet "Notes pour plus tard" qui consiste à créer une capsule temporelle avec des articles sur un lieu, une musique, un film, un livre, un espoir et un regret. Site bilngue en Français et en Anglais et mobile first.
     </p>
 
-    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FbMuwYTTDHlXip6ea5abiyL%2FMaquettes-projet-individuel-%25E2%2580%2594-Julien-FLEURENT%3Ftype%3Ddesign%26node-id%3D801%253A781%26mode%3Ddev" allowfullscreen class="flex m-auto"></iframe>
+    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="80%" height="500" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FbMuwYTTDHlXip6ea5abiyL%2FMaquettes-projet-individuel-%25E2%2580%2594-Julien-FLEURENT%3Ftype%3Ddesign%26node-id%3D801%253A781%26mode%3Ddev" allowfullscreen class="flex m-auto"></iframe>
     </section>
 
     <div class="flex justify-center my-10">
