@@ -7,9 +7,11 @@ import footervue from './components/footer.vue'
 <template>
   <headervue />
   
+  <body>
   <Suspense>
  <RouterView />
   </Suspense>
-
+  </body>
+  
   <footervue />
 </template>

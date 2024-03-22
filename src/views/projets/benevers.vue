@@ -44,8 +44,8 @@
 
     <div class="lg:grid lg:grid-cols-2 align-middle">
       <div>
-        <video width="720" height="480" controls>
-          <source src="/src/img/reportagesae_habillage_ffmpeg.mp4" type=video/mp4>
+        <video width="720" height="480" controls class="block m-auto">
+          <source src="/src/img/reportagesae_habillage_ffmpeg.mp4" type=video/mp4 >
         </video>
         <h4 class="text-center italic mb-5">Reportage de l'association Kidul, réalisé par Timeo Binda</h4>
       </div>
@@ -83,4 +83,5 @@
       <a href="https://benevers.gaspardbondy.fr/" class="text-2xl">https://benevers.gaspardbondy.fr/</a>
     </div>
   </section>
+
 </template>

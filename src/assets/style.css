@@ -140,3 +140,7 @@ a:hover::before {
         margin:auto;
 	}
 }
+
+body {
+  cursor: url("../img/icon_instagram.svg") auto;
+}

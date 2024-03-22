@@ -4,7 +4,7 @@ import { RouterLink } from 'vue-router';</script>
 <template>
     <h1 class="text-8xl text-center my-4">Projets</h1>
     
-  <div class="grid lg:grid-cols-3 md:grid-cols-2">
+  <div class="grid lg:grid-cols-2 md:grid-cols-2">
   <div class="card-container bg-gray-500">
       <RouterLink to="/benevers" class="hero-image-container before:none">
         <img class="hero-image" src="../img/Benevers.webp" alt="Illustration du projet benevers"/>
@@ -24,20 +24,20 @@ import { RouterLink } from 'vue-router';</script>
     </div>
 
     <div class="card-container bg-gray-500">
-      <a href="/" class="hero-image-container">
+      <a href="/hurry-up" class="hero-image-container">
         <img class="hero-image" src="../img/Cover_crac_19.webp" alt="Cover du 19, Crac"/>
       </a>
       <main class="main-content">
-        <h2><a href="#">Test</a></h2>
+        <h2 class="text-center text-4xl"><RouterLink to="/hurry-up">Hurry Up !</RouterLink></h2>
       </main>
     </div>
 
     <div class="card-container bg-gray-500">
-      <a href="/" class="hero-image-container">
-        <img class="hero-image" src="../img/Cover_crac_19.webp" alt="Cover du 19, Crac"/>
+      <a href="/tick-tock-time" class="hero-image-container">
+        <img class="hero-image" src="../img/tick-tock-time/Tick-tock-time-cover.webp" alt="Couverture du projet Tick Tock Time"/>
       </a>
       <main class="main-content">
-        <h2><a href="#">Test</a></h2>
+        <h2 class="text-center text-4xl"><RouterLink to="/tick-tock-time">Tick Tock Time</RouterLink></h2>
       </main>
     </div>
 </div>
