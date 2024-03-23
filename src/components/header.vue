@@ -19,7 +19,7 @@
             <ul :class="showMenu ? 'flex' : 'hidden'" class="flex-col mt-8 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0">
                 <RouterLink to="/" class="text-gray-100">Accueil</RouterLink>
                 <RouterLink to="/projets" class="text-gray-100 ">Mes projets</RouterLink>
-                <a onclick="window.open('/src/img/CV_Fleurent_Julien.pdf', '_blank')" href="#"
+                <a href="/public/CV_Fleurent_Julien.pdf"
                     class=" text-gray-100">Mon CV</a>
             </ul>
         </nav>
